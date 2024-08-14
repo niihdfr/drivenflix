@@ -5,13 +5,12 @@ import Content from "./Content";
 
 export default function App() { // JSX
     return (
-        <div>
+        <>
             <Top />
-
             <div class="row">
                 <Menu />
                 <Content />         
             </div>
-        </div>
+        </>
     );
 }
