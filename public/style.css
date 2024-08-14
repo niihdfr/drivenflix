@@ -179,8 +179,6 @@ html, body {
         border-radius: 10px;
     }
 
-  }
-
   @media (min-width: 610px) and (max-width: 1019px) {
     .row {
         display: flex;
